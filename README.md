@@ -12,5 +12,5 @@
 		3) Install Shiny Server, the version 1.5.9.923
 		4) Copy over the data and conf file of the app and run server upon docker launch
 		
-		
+	Docker can be run as "docker run -d -p 3838:3838 --name shinyapp_grch38 shiny-app"
   
